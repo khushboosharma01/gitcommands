@@ -11,3 +11,9 @@ commands for pushing the code for second time
 git add .
 git commit -m "commit msg"
 git push 
+
+EXTRA COMMANDS
+git branch  #used to find list of branch
+git branch branchname # used to create new branch
+git checkout branchname #used to switch b/tw multiple branch
+git branch -d branchname #delete the branch 
