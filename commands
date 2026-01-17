@@ -1,0 +1,8 @@
+
+COMMANDS -- FOR PUSHING THE CODE FOR FIREST TIME 
+git init
+git add 
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/khushboosharma01/gitcommands.git
+git push -u origin main
